@@ -1,0 +1,140 @@
+
+{
+    "section-one": {
+        "header": "",
+        "title": "COOL MIND",
+        "bloglink": "https://techdrop.blog.niobe.work",
+        "navitems": "",
+        "item1": "Home",
+        "item2": "about",
+        "item3": "Services",
+        "item4": "Contact Us",
+        "button": "Book Appointment"
+        
+    }, 
+    "section-two": { 
+        "hero": "",
+        "title": "“Build, Simplify, Conquer: Your Technology, Your Way.“",
+        "body": "At Techdrop, we are pioneers in simplifying mobile app development. Our passion for technology is combined with a user-centric approach to deliver innovative solutions that transform ideas into tangible applications.",
+        "button": "Get in Touch",
+        "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1715285369/EaseTech/geojno6prrll2cvocdly.png"
+    },
+    "section-three": {
+        "expertise": "",
+        "title": "Special expertise from us",
+        "item1": {
+            "logo": "",
+            "title": "Mission",
+            "body": "Our mission is to democratize the mobile app development process, making it accessible to everyone, from entrepreneurs to large companies. We strive to offer an intuitive and powerful platform that empowers our users to create quality applications without requiring deep technical knowledge."
+        },
+        "item2": {
+            "logo": "",
+            "title": "Vision",
+            "body": "We view ourselves as the gold standard in mobile application development, being recognized for our excellence in innovation, usability and customer service. We want to be the preferred option for both those who are taking their first steps in the world of applications and for veterans in the industry."
+        },
+        "item3": {
+            "logo": "",
+            "title": "What makes us different",
+            "body": "At Techdrop, we stand out for our drag and drop platform that greatly simplifies the mobile app development process. Our intuitive interface and powerful tools allow anyone to create stunning applications without the need for programming experience. Additionally, our customer-centric approach drives us to always be at the forefront of technology and offer exceptional support at all times."
+        }
+    },
+    "section-four": {
+        "services": "",
+        "title": "¿Why Trust Us?",
+        "body": "Trust us because we have a proven track record of success in the market. Our platform has been used by a wide range of clients, from startups to large corporations, to create successful mobile applications that have reached millions of downloads and generated significant revenue. Plus, our team of experts is committed to your success and will guide you every step of the way.",
+        "title2": "Those who have trusted us",
+        "body2": "Leading companies in various industries have trusted Techdrop to bring their ideas to market quickly and efficiently. Our clients range from innovative startups to established brands looking to expand their mobile presence."
+    },
+    "section-five": {
+        "about": "",
+        "title": "About Us",
+        "subtitle": "29 years of growth",
+        "body": "Do you want to create a mobile application without complications? Techdrop  makes it possible! Our revolutionary platform allows you to develop applications with drag-and-drop simplicity. Forget about long coding processes and technical barriers. With Techdrop , you can bring your mobile ideas to life in minutes. Discover the new era of app development with Techdrop.",
+        "body2": "",
+        "item1": {
+            "logo": "",
+            "title": "100+",
+            "body": "Skilled and motivated staff"
+        },
+        "item2": {
+            "logo": "",
+            "title": "80+",
+            "body": "Successful projects"
+        },
+        "item3": {
+            "logo": "",
+            "title": "28+",
+            "body": "Clients worldwide"
+        }
+    },
+    "section-six": {
+        "members": "",
+        "title": "Say hello to my  Great Team",
+        "body": [
+            {
+                "id": 1,
+                "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/rmggbbxqzfjmdnhgpeep.png",
+                "name": "David Aninowsky",
+                "role": "Ceo / Founder"
+            },
+            {
+                "id": 2,
+                "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/c1qobqw8dxrpf8smmckb.png",
+                "name": "David Gucker",
+                "role": "Chief Operating Officer"
+            },
+            {
+                "id": 3,
+                "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/fb240rxk1zuwtphb3ibq.png",
+                "name": "Anthony Quon",
+                "role": "Chief Information Officer"
+            }
+        ]
+    },
+    "section-seven": {
+        "footer": "",
+        "title": "AppEase",
+        "section-1": {
+            "delivery": "Tech application",
+            "email": "At Techdrop, we are pioneers in simplifying mobile app development. ",
+            "phone": ""
+        },
+        "section-2": {
+            "item1": "HOME",
+            "item2": "WORK",
+            "item3": "BLOG",
+            "item4": "ABOUT",
+            "item5": "SERVICES"
+        },
+        "section-3": {
+            "button1": {
+                "title": "Facebook",
+                "icon": ""
+            },
+            "button2": {
+                "title": "Twitter",
+                "icon": ""
+            },
+            "button3": {
+                "title": "Instagram",
+                "icon": ""
+            }
+        }
+    },
+    "section-eight": {
+        "projects": "",
+        "title": "Projects",
+        "body": [
+            {
+                "id": 1,
+                "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1715285861/EaseTech/tdzyuf4eqhv7umxhubnn.png",
+                "name": "AppEase Tech",
+                "role": " Project"
+            }
+            
+        ]
+    }
+        
+    
+
+}
