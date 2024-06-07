@@ -1,49 +1,49 @@
-import texts from "../utils/texts.json";
+import data from '../data.json';
+import PrimaryButton from './ui/PrimaryButton';
 
-function Hero() {
+const Hero = () => {
   return (
-    <section className="flex flex-col-reverse items-center justify-center mb-20 md:flex-row">
-      <div className="md:w-1/2 lg:pl-20 ">
-        <div
-          id="title"
-          className="text-center md:text-left text-4xl font-bold mb-5 mt-10 lg:mt-0"
-          style={{ maxWidth: "300px" }}
-        >
-          <h1>{texts["section-two"].title}</h1>
-        </div>
-
-        <div
-          className="text-center md:text-left mb-5"
-          style={{ maxWidth: "360px" }}
-        >
-          <h2 className="mb-5">{texts["section-two"].body}</h2>
-          <button
-            type="button"
-            style={{
-              backgroundColor: "#4544EF",
-              borderRadius: "20px",
-              padding: "10px 25px",
-              color: "#FFFFFF",
-            }}
+    <div
+      className='max-w-maxWidth mx-auto h-full flex
+      flex-col gap-10  items-center justify-center
+     lg:flex-row xl:justify-between pt-[120px]
+    '
+      id='home'
+    >
+      {/* text */}
+      <div
+        className='max-w-[440px] flex flex-col
+        gap-2 items-center justify-center text-center 
+      '
+      >
+        <h1 className='text-[40px] leading-[1.1] mb-5 font-bold'>
+          <span className='text-[60px] md:text-[80px]  text-primary-red'>
+            {data['section-one'].title.big}
+          </span>{' '}
+          {data['section-one'].title.small}
+        </h1>
+        <p className='text-[20px]'>{data['section-one'].subtitle}</p>
+        {/* <PrimaryButton>
+          <a
+            href={data["section-one"].button.href}
+            target='_blank'
+            rel='noreferrer'
           >
-            <a
-              href="mailto:appease.info@gmail.com"
-              target="_blank"
-              rel="noreferrer"
-            >
-              {texts["section-two"].button}
-            </a>
-          </button>
-        </div>
+            {data["section-one"].button.text}
+          </a>
+        </PrimaryButton> */}
+        {/* <span className='text-[14px]'>
+          {data['section-one'].button.buttonDesc}
+        </span> */}
       </div>
-      <div className="md:w-1/2 md:mr-10">
+      {/* img */}
+      <div className='flex-1 flex items-center justify-end'>
         <img
-          src={texts["section-two"].image}
-          alt="heroImage"
-          className="w-full"
+          src={data['section-one'].img.url}
+          alt={data['section-one'].img.alt}
         />
       </div>
-    </section>
+    </div>
   );
-}
+};
 export default Hero;

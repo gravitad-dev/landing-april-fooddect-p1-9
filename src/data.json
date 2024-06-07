@@ -1,0 +1,521 @@
+{
+  "section-nav": {
+    "logo": "/icono.svg",
+    "links": [
+      {
+        "id": "ae546d41-1631-4d82-b1c1-9aba6a5ab98e",
+        "text": "Home",
+        "href": "#home",
+        "title": "Home",
+        "isExternal": false
+      },
+      {
+        "id": "d7b1235d-e5f8-4734-ae62-ce037177f875",
+        "text": "Life style",
+        "href": "#life-style",
+        "title": "Life style",
+        "isExternal": false
+      },
+      {
+        "id": "736db1bc-0fb5-44dd-a119-bc4eafbc7cef",
+        "text": "FutureFeast",
+        "href": "#future_feast",
+        "title": "FutureFeast",
+        "isExternal": false
+      },
+      {
+        "id": "89b3ddbc-3113-42ec-89e0-1b3aaefac6ff",
+        "text": "Plans",
+        "href": "#plans",
+        "title": "plans",
+        "isExternal": false
+      },
+      {
+        "id": "e702278b-efb7-48ce-a5e2-53ca83ce761b",
+        "text": "NutriNexus",
+        "href": "#nutri_nexus",
+        "title": "NutriNexus",
+        "isExternal": false
+      },
+      {
+        "id": "25afd3c8-f1ea-4d0d-adf4-10c5c4982595",
+        "text": "HealthyBite",
+        "href": "#healthybite",
+        "title": "HealthyBite",
+        "isExternal": false
+      },
+      {
+        "id": "7a406566-fb4a-4f14-8248-43c14be15852",
+        "text": "Products",
+        "href": "#products",
+        "title": "Products",
+        "isExternal": false
+      },
+      {
+        "id": "55a8a461-3cba-447e-9fb4-1eedf1d0988a",
+        "text": "Benefits",
+        "href": "#benefits",
+        "title": "Benefits",
+        "isExternal": false
+      },
+      {
+        "id": "573f383f-6b24-4994-a6d5-05bf241022d3",
+        "text": "Food Stories",
+        "href": "#food_stories",
+        "title": "Food Stories",
+        "isExternal": false
+      },
+      {
+        "id": "37c5d292-73f2-4f7f-b2d0-6017a3bbc6ee",
+        "text": "Contact",
+        "href": "mailto:fooddect@gmail.com",
+        "title": "Contact",
+        "isExternal": false
+      },
+      {
+        "id": "f24c6669-165f-48b2-aa5f-baf553f3f94b",
+        "text": "Reviews",
+        "href": "#reviews",
+        "title": "Reviews",
+        "isExternal": false
+      },
+      {
+        "id": "40a90238-b47e-45d6-b421-e5d8dbebd0cc",
+        "text": "Blog",
+        "href": "https://fooddect.blog.akiladigital.com",
+        "title": "Blog",
+        "isExternal": true
+      },
+      {
+        "id": "5081b70c-5a7b-4d6d-a12e-351403d93a14",
+        "text": "Projects",
+        "href": "#projects",
+        "title": "Projects",
+        "isExternal": false
+      }
+    ]
+  },
+  "section-one": {
+    "title": {
+      "big": "Healthy",
+      "small": "living made easy!!"
+    },
+    "subtitle": "Get your custom plans & one-on-one guidance from our experts",
+    "button": {
+      "text": "Sign In",
+      "href": "#",
+      "buttonDesc": "Sign in & get started today"
+    },
+    "img": {
+      "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713542984/landing-ia/hero-img.png",
+      "alt": "food picture"
+    }
+  },
+  "section-two": {
+    "text": {
+      "front": "Why healthy",
+      "back": "LIFESTYLE"
+    },
+    "list-items": [
+      {
+        "id": 1,
+        "text": "Improved physical health"
+      },
+      {
+        "id": 2,
+        "text": "Better mental health"
+      },
+      {
+        "id": 3,
+        "text": "Increased longevity"
+      },
+      {
+        "id": 4,
+        "text": "Weight management"
+      },
+      {
+        "id": 5,
+        "text": "Improved self-confidence"
+      },
+      {
+        "id": 6,
+        "text": "Reduced stress"
+      }
+    ],
+    "list-images": [
+      {
+        "id": 1,
+        "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713559144/landing-ia/list-img/ymqibweprmuy0iesrmfb.jpg",
+        "alt": "list image"
+      },
+      {
+        "id": 2,
+        "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713559144/landing-ia/list-img/h7va4nwztuj1ze48t1rh.jpg",
+        "alt": "list image"
+      },
+      {
+        "id": 3,
+        "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713559144/landing-ia/list-img/sgic33vbbih3kzr7twv0.jpg",
+        "alt": "list image"
+      }
+    ]
+  },
+  "section-three": {
+    "title": "We have plans for",
+    "desc": "Build healthier habits with personalized lessons",
+    "items": [
+      {
+        "id": 1,
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/szcn3s6bbte0ofydfozu.svg",
+        "text": "Loosing weight"
+      },
+      {
+        "id": 2,
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/udcgdasgmlusaqgx2yrm.svg",
+        "text": "Gaining weight"
+      },
+      {
+        "id": 3,
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/ye7cbkigyz7xgqfeavwb.svg",
+        "text": "Maintaining weight"
+      }
+    ]
+  },
+  "section-four": {
+    "title": {
+      "left": "have a",
+      "middle": "HealthyBite",
+      "right": "for"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Find a diet you love",
+        "desc": "Find a nutritious Diet that fits your lifestyle and food preferences. Take charge of your daily habits with one of the many ongoing Diets including Clean Eating and High Protein",
+        "img": {
+          "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/bjj3hl0svva6yrwh9alc.png",
+          "alt": "un plato de ensalada"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Start a simplified meal plan",
+        "desc": "Follow a 7-21 day Meal Plan and get four pre-planned recipes a day. Depending on your health goals, there are many Meal Plans to choose from including Keto Burn and Vegan for a week.",
+        "img": {
+          "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/g0ccl7z4pu4ue9tem0ba.png",
+          "alt": "frutas"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Track your way to success",
+        "desc": "Track your activities and what you eat with the help of our food-, exercise- and water trackers to maintain a balanced everyday life.",
+        "img": {
+          "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/t3ge4ap6yw3b7vanelfu.png",
+          "alt": "vasos de jugos de fruta"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Start your own healthy journey",
+        "desc": "To help you reach your goals and customize your health journey you can add your favorite meals, food items, recipes and exercises to your Favorites.",
+        "img": {
+          "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796653/landing-ia/have/w6xvnncjk5eethcqiq3u.png",
+          "alt": "vasos de jugos de fruta"
+        }
+      }
+    ]
+  },
+  "section-five": {
+    "title": "Do not know where to start?",
+    "btn": {
+      "tex": "Contact us",
+      "href": "#"
+    }
+  },
+  "section-six": {
+    "title": {
+      "left": "What is a",
+      "middle": "HealthyBite",
+      "right": "for you ?"
+    },
+    "img": {
+      "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713799217/landing-ia/zdcegid79ye5x2uv9phs.png",
+      "alt": "computadora"
+    },
+    "items": [
+      {
+        "id": 1,
+        "text": "Diet tracker"
+      },
+      {
+        "id": 2,
+        "text": "Best nutrition advice"
+      },
+      {
+        "id": 3,
+        "text": "Exercise portal"
+      },
+      {
+        "id": 4,
+        "text": "Meal planner"
+      },
+      {
+        "id": 5,
+        "text": "Recipes database"
+      },
+      {
+        "id": 6,
+        "text": "One stop shop for nutritions"
+      },
+      {
+        "id": 7,
+        "text": "Community"
+      }
+    ]
+  },
+  "section-seven": {
+    "title": {
+      "left": "diet",
+      "right": "Products"
+    },
+    "desc": "HealthyBite making it easy for you to get your diet product supply from the same platform as well",
+    "list-texts": [
+      { "id": 1, "text": "Search from a wide range" },
+      { "id": 2, "text": "Get the best one recommended from the nutritionist" }
+    ],
+    "list-products": [
+      {
+        "id": 1,
+        "text": "Whey protein Bodybuilding supplement Nutrition",
+        "info": "Net wt : 1.7kg",
+        "img": {
+          "url": "/product-1.jpg",
+          "alt": "producto"
+        }
+      },
+      {
+        "id": 2,
+        "text": "Whey protein Bodybuilding supplement Nutrition",
+        "info": "Net wt : 1.7kg",
+        "img": {
+          "url": "/product-2.jpg",
+          "alt": "producto"
+        }
+      },
+      {
+        "id": 3,
+        "text": "Whey protein Bodybuilding supplement Nutrition",
+        "info": "Net wt : 1.7kg",
+        "img": {
+          "url": "/product-3.jpg",
+          "alt": "producto"
+        }
+      }
+    ],
+    "btn": {
+      "href": "#",
+      "text": "Buy"
+    },
+    "slogan": {
+      "title": "That makes us different:",
+      "desc": "What sets us apart is our ability to combine data science with a passion for food. Our platform uses machine learning artificial intelligence algorithms and big data coding to analyze historical data and accurately anticipate trends. In addition, we focus on offering a joint alternative for the eating habits of both people and pets, which differentiates us from other solutions on the market."
+    }
+  },
+  "section-eight": {
+    "title": {
+      "left": "The fresh new",
+      "right": "Food stories"
+    },
+    "desc": "With the recipes created (and put to the test) by our in-house team of professional chefs and nutritionists, we can promise you that healthy eating is delicious!",
+    "stories": [
+      {
+        "id": 1,
+        "text": "Diet, Fitness",
+        "desc": "Get all the protein you need on a plant based diet",
+        "img": {
+          "url": "/sirviendo-licuado.jpg",
+          "alt": "mujer sirviendose licuado"
+        }
+      },
+      {
+        "id": 2,
+        "text": "Diet, Fitness",
+        "desc": "Get all the protein you need on a plant based diet",
+        "img": {
+          "url": "/frutas-vegetales.jpg",
+          "alt": "frutas y vegetales en la mesa"
+        }
+      },
+      {
+        "id": 3,
+        "text": "Diet, Fitness",
+        "desc": "Get all the protein you need on a plant based diet",
+        "img": {
+          "url": "/cortando-fruta.jpg",
+          "alt": "mujer cortando fruta"
+        }
+      }
+    ],
+    "stories-btn": {
+      "text": "Read more",
+      "href": "https://foodvisioninsights.blog.akiladigital.com"
+    }
+  },
+  "section-nine": {
+    "text": {
+      "left": "Invest in yourself and boost your health, body and confidence",
+      "right": "body and confidence"
+    },
+    "btn": {
+      "text": "Contact",
+      "href": "mailto:foodvisioninsights@gmail.com"
+    },
+    "list-texts": [
+      { "id": 1, "text": "Quick account creation" },
+      { "id": 2, "text": "No commitment — cancel at any time" },
+      { "id": 3, "text": "Join over 45 million other users" }
+    ]
+  },
+  "section-ten": {
+    "text": {
+      "back": "RESULTS",
+      "front": "HealthyBite reviews"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "title": "10 kgs in 6 weeks",
+        "desc": "I am impressed with the results I have achieved with Fooddect. Thanks to their platform, I have been able to better understand my eating habits and I have lost 12 kilos in the last six months. I feel healthier and more energetic than ever!",
+        "author": {
+          "name": "Sophie Müller, 38 years old (Germany)"
+        },
+        "img": {
+          "url": "/testimonial-1.jpg",
+          "alt": "chico mostrando su cambio fisico"
+        }
+      },
+      {
+        "id": 2,
+        "title": "40 kgs in 8 weeks",
+        "desc": "Fooddect has been an incredible tool in my weight loss journey. With its help, I have been able to make more informed decisions about my diet and have lost 20 pounds in just three months. I am very happy with the results!",
+        "author": {
+          "name": "Lukas Jansen, 33 years old (Netherlands)"
+        },
+        "img": {
+          "url": "/testimonial-2.jpg",
+          "alt": "chico mostrando su cambio fisico"
+        }
+      },
+      {
+        "id": 3,
+        "title": "42 kgs in 9 weeks",
+        "desc": "I am so grateful to Fooddect for helping me reach my weight goal. Their platform has provided me with valuable insights into nutrition and eating habits, and in just four months, I have lost 25 pounds. I feel fantastic!",
+        "author": {
+          "name": "Isabella Rossi, 29 years old (Italy)"
+        },
+        "img": {
+          "url": "/testimonial-3.jpg",
+          "alt": "chico mostrando su cambio fisico"
+        }
+      },
+      {
+        "id": 4,
+        "title": "33 kgs in 7 weeks",
+        "desc": "Fooddect has changed my life. Thanks to its innovative approach to weight loss, I have managed to lose 18 kilos in six months. I am impressed with the results and feel healthier and fitter than ever before.",
+        "author": {
+          "name": "Maximilian Schmidt, 42 years old (Germany)"
+        },
+        "img": {
+          "url": "/testimonial-4.jpg",
+          "alt": "chico mostrando su cambio fisico"
+        }
+      }
+    ]
+  },
+  "section-eleven": {
+    "text": {
+      "left": "A whole year of",
+      "middle": "HEALTHYBITE",
+      "right": " costs about the same as 1 hour with a nutrition expert."
+    }
+  },
+  "section-twelve": {
+    "title": {
+      "left": "Feeding the future, anticipating your desires.",
+      "right": "anticipating your desires."
+    },
+    "texts": {
+      "one": {
+        "subtitle": "Why trust us:",
+        "desc": "You can trust us because we are committed to excellence, integrity and innovation. Our platform has been developed by a team of experts in artificial intelligence and food, guaranteeing the highest quality and precision in our services. Additionally, we are trusted by a wide range of users, including food industry companies, conscious consumers and nutrition experts."
+      },
+      "two": {
+        "subtitle": "Who has trusted us:",
+        "desc": "Our clients include food and beverage companies, supermarkets, veterinarians, nutritionists, and pet and food lovers who value accuracy and innovation in food trend analysis."
+      }
+    },
+    "images": ["/mujer-con-manzana.jpg", "/mujer-con-perro.webp"]
+  },
+  "section-thirteen": {
+    "title": {
+      "left": "Discover the Future of ",
+      "right": "Food with Fooddect "
+    },
+    "subtitle": "At Fooddect, we are at the forefront of the food revolution. We specialize in creating AI-powered solutions that anticipate trends and detect changes in the eating habits of consumers, both human and furry.",
+    "list-p": [
+      "Imagine having the ability to predict which foods will be the next favorites on the market, understand how people's tastes are evolving, and anticipate emerging dietary needs. That's exactly what we do at FoodVisionInsights.",
+      "Our mission is to provide an innovative platform that is not only one step ahead of food trends, but also offers a comprehensive view of eating habits for both people and pets. We strive to create a comprehensive alternative that covers all aspects of food consumption.",
+      "To achieve this, we combine the power of machine learning artificial intelligence algorithms and big data coding. We analyze historical data from our platform and merge it with other internal and external sources to obtain a complete and accurate view of the food landscape.",
+      "At Fooddect, we don't just anticipate the future of food, we create it. Join us on this journey towards a smarter, more conscious and more delicious food industry than ever before."
+    ]
+  },
+  "section-footer": {
+    "footer-links": [
+      {
+        "id": 1,
+        "text": "Terms & Conditions",
+        "href": "#terms_and_conditions",
+        "title": "terms and conditions"
+      },
+      {
+        "id": 2,
+        "text": "Privacy Policy",
+        "href": "#privacy_policy",
+        "title": "Privacy Policy"
+      }
+    ],
+    "footer-social": [
+      {
+        "id": 1,
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713817485/landing-ia/iywcmjjom9usky2fnehp.svg",
+        "title": "Linkedin icono",
+        "href": "https://www.linkedin.com/company/example/"
+      },
+      {
+        "id": 2,
+        "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713817485/landing-ia/iywcmjjom9usky2fnehp.svg",
+        "title": "Linkedin icono",
+        "href": "https://www.linkedin.com/company/example/"
+      }
+    ],
+    "footer-copyright": "HealthyBite. All rights reserved."
+  },
+  "section-projects": {
+    "text": {
+      "left": "Our",
+      "right": "Project"
+    },
+    "projects": [
+      {
+        "id": 1,
+        "title": "AI TO ANTICIPATE TRENDS AND DETECT CHANGES IN CONSUMERS' EATING HABITS (Platform for People's and Pets' Eating Habits)",
+        "desc": "Our AI anticipates trends and detects changes in the eating habits of consumers and pets, offering a unique platform to understand the market in an agile and precise way.",
+        "img": {
+          "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1714069100/bciwfshbuvos1ejjtiy1.webp",
+          "alt": "AI TO ANTICIPATE TRENDS AND DETECT CHANGES IN CONSUMERS' EATING HABITS (Platform for People's and Pets' Eating Habits)"
+        }
+      }
+    ]
+  }
+}

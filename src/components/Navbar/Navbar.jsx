@@ -1,74 +1,36 @@
-import useNav from "../../hooks/useNav";
-import MenuMobile from "./MenuMobile";
-import texts from "../../utils/texts.json";
-import logo from "../../../public/techDropLogo.png";
-import { HiOutlineMenuAlt4 } from "react-icons/hi";
-import { BsXLg } from "react-icons/bs";
-import useMediaQuery from "../../hooks/useMediaQuery";
+import useNav from '../../hooks/useNav';
+import Logo from '../ui/Logo';
+import MenuDesktop from './MenuDesktop';
+import MenuMobile from './MenuMobile';
+
+import { BsJustify, BsXLg } from 'react-icons/bs';
 
 const Navbar = () => {
-  const { isOpen, handleIsOpen } = useNav();
-  const isSmallScreen = useMediaQuery("(max-width: 640px)"); // Suponiendo 640px como el breakpoint para móviles
+  const { isOpen, handleIsOpen, hasScrolled } = useNav();
 
   return (
     <header
       className={`
-        fixed z-[98] top-0 left-0 w-full 
-        lg:px-20 px-5 flex justify-start gap-7 items-center  
-        h-[78px]  text-white 
-      `}
-      style={{ backgroundColor: "#FAFAFA" }}
+      z-[98] fixed top-0 left-0 w-full   h-[78px] flex items-center justify-center
+      ${hasScrolled ? 'bg-[#DDF7E3]  shadow-sm' : 'bg-transparent'}
+   `}
     >
-      <a
-        href="/"
-        className="font-bold flex items-center gap-4 pr-4"
-        style={{ color: "#272727" }}
+      <nav
+        className={`
+       flex justify-between items-center  px-2 relative h-full
+       w-full max-w-maxWidth
+      `}
       >
-        <img src={logo} alt="logo" width={250} />
-      </a>
-
-      {/* Renderizar elementos del menú solo si la vista no es móvil */}
-      {!isSmallScreen && (
-        <>
-          <div>
-            <a
-              href={texts["section-one"].bloglink}
-              target="_blank"
-              rel="noopener noreferrer"
-              className=""
-              style={{ color: "#272727" }}
-            >
-              Blog
-            </a>
-          </div>
-          <div className="" style={{ color: "#272727" }}>
-            <select
-              style={{ backgroundColor: "#FAFAFA" }}
-              name="select1"
-              id="select1"
-            >
-              <option value="EN">EN</option>
-            </select>
-          </div>
-        </>
-      )}
-
-      {/* Renderizar botón de menú solo si la vista no es móvil */}
-      <div className="ml-auto ">
+        <Logo />
         <button
-          type="button"
-          className="bg-[#4544EF] rounded-full py-2 px-5 text-white font-semibold"
+          className='text-2xl cursor-pointer z-[99] text-secondary flex items-center justify-center lg:hidden'
+          onClick={handleIsOpen}
         >
-          <a
-            href="mailto:appeasae.info@gmail.com"
-            target="_blank"
-            rel="noreferrer"
-            className="px-5 py-2"
-          >
-            Contact
-          </a>
+          {isOpen ? <BsXLg /> : <BsJustify />}
         </button>
-      </div>
+        <MenuDesktop />
+        <MenuMobile isOpen={isOpen} onClick={handleIsOpen} />
+      </nav>
     </header>
   );
 };
