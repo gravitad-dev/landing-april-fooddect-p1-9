@@ -2,7 +2,7 @@ import Benefits from './components/Benefits';
 import FoodStories from './components/FoodStories';
 import Footer from './components/Footer';
 import HealthyBite from './components/HealthyBite';
-import Hero from './components/Hero';
+import Hero from './components/HeroComponent';
 import LifeStyle from './components/LifeStyle';
 import Navbar from './components/Navbar/Navbar';
 import NutriNexus from './components/NutriNexus';
