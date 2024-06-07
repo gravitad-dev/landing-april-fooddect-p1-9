@@ -1,20 +1,20 @@
-import Benefits from './components/Benefits';
-import FoodStories from './components/FoodStories';
-import Footer from './components/Footer';
-import HealthyBite from './components/HealthyBite';
-import Hero from './components/HeroComponent';
-import LifeStyle from './components/LifeStyle';
-import Navbar from './components/Navbar/Navbar';
-import NutriNexus from './components/NutriNexus';
-import Plans from './components/Plans';
-import Products from './components/Products';
-import Projects from './components/Projects';
-import Reviews from './components/Reviews';
-import Slogan from './components/Slogan';
-import Start from './components/Start';
-import WhatIs from './components/WhatIs';
-import Layout from './components/ui/Layout';
-import WaveBottom from './components/ui/WaveBottom';
+import Benefits from '@/components/Benefits';
+import FoodStories from '@/components/FoodStories';
+import Footer from '@/components/Footer';
+import HealthyBite from '@/components/HealthyBite';
+import Hero from '@/components/HeroComponent';
+import LifeStyle from '@/components/LifeStyle';
+import Navbar from '@/components/Navbar/Navbar';
+import NutriNexus from '@/components/NutriNexus';
+import Plans from '@/components/Plans';
+import Products from '@/components/Products';
+import Projects from '@/components/Projects';
+import Reviews from '@/components/Reviews';
+import Slogan from '@/components/Slogan';
+import Start from '@/components/Start';
+import WhatIs from '@/components/WhatIs';
+import Layout from '@/components/ui/Layout';
+import WaveBottom from '@/components/ui/WaveBottom';
 
 // IA PARA ANTICIPAR TENDENCIAS Y DETECTAR CAMBIOS EN LOS HÁBITOS DE ALIMENTACIÓN DE LOS CONSUMIDORES
 // (Plataforma Para Los Hábitos Alimentarios De Personas Y Mascotas)
