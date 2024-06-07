@@ -8,7 +8,7 @@ import Navbar from '@/components/Navbar/Navbar';
 import NutriNexus from '@/components/NutriNexus';
 import Plans from '@/components/Plans';
 import Products from '@/components/Products';
-import Projects from '@/components/Projects';
+import Projects from '@/components/ProjectsComponent';
 import Reviews from '@/components/Reviews';
 import Slogan from '@/components/Slogan';
 import Start from '@/components/Start';
