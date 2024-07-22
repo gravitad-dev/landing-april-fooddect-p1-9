@@ -4,81 +4,48 @@
     "links": [
       {
         "id": "ae546d41-1631-4d82-b1c1-9aba6a5ab98e",
-        "text": "Home",
+        "text": "Inicio",
         "href": "#home",
         "title": "Home",
         "isExternal": false
       },
       {
-        "id": "d7b1235d-e5f8-4734-ae62-ce037177f875",
-        "text": "Life style",
-        "href": "#life-style",
-        "title": "Life style",
-        "isExternal": false
-      },
-      {
         "id": "736db1bc-0fb5-44dd-a119-bc4eafbc7cef",
-        "text": "FutureFeast",
+        "text": "Futuro",
         "href": "#future_feast",
         "title": "FutureFeast",
         "isExternal": false
       },
       {
         "id": "89b3ddbc-3113-42ec-89e0-1b3aaefac6ff",
-        "text": "Plans",
+        "text": "Planes",
         "href": "#plans",
         "title": "plans",
         "isExternal": false
       },
       {
-        "id": "e702278b-efb7-48ce-a5e2-53ca83ce761b",
-        "text": "NutriNexus",
-        "href": "#nutri_nexus",
-        "title": "NutriNexus",
-        "isExternal": false
-      },
-      {
         "id": "25afd3c8-f1ea-4d0d-adf4-10c5c4982595",
-        "text": "HealthyBite",
+        "text": "Fooddect",
         "href": "#healthybite",
         "title": "HealthyBite",
         "isExternal": false
       },
-      {
-        "id": "7a406566-fb4a-4f14-8248-43c14be15852",
-        "text": "Products",
-        "href": "#products",
-        "title": "Products",
-        "isExternal": false
-      },
+
       {
         "id": "55a8a461-3cba-447e-9fb4-1eedf1d0988a",
-        "text": "Benefits",
+        "text": "Beneficios",
         "href": "#benefits",
         "title": "Benefits",
         "isExternal": false
       },
       {
         "id": "573f383f-6b24-4994-a6d5-05bf241022d3",
-        "text": "Food Stories",
+        "text": "Historias",
         "href": "#food_stories",
         "title": "Food Stories",
         "isExternal": false
       },
-      {
-        "id": "37c5d292-73f2-4f7f-b2d0-6017a3bbc6ee",
-        "text": "Contact",
-        "href": "mailto:fooddect@gmail.com",
-        "title": "Contact",
-        "isExternal": false
-      },
-      {
-        "id": "f24c6669-165f-48b2-aa5f-baf553f3f94b",
-        "text": "Reviews",
-        "href": "#reviews",
-        "title": "Reviews",
-        "isExternal": false
-      },
+
       {
         "id": "40a90238-b47e-45d6-b421-e5d8dbebd0cc",
         "text": "Blog",
@@ -92,15 +59,22 @@
         "href": "#projects",
         "title": "Projects",
         "isExternal": false
+      },
+      {
+        "id": "37c5d292-73f2-4f7f-b2d0-6017a3bbc6ee",
+        "text": "Contacto",
+        "href": "https://fooddect.blog.akiladigital.com/contacto/",
+        "title": "Contact",
+        "isExternal": false
       }
     ]
   },
   "section-one": {
     "title": {
-      "big": "Healthy",
-      "small": "living made easy!!"
+      "big": "La vida",
+      "small": "saludable se ha hecho fácil!!"
     },
-    "subtitle": "Get your custom plans & one-on-one guidance from our experts",
+    "subtitle": "Obtén tus planes personalizados y orientación individual de nuestros expertos",
     "button": {
       "text": "Sign In",
       "href": "#",
@@ -113,33 +87,33 @@
   },
   "section-two": {
     "text": {
-      "front": "Why healthy",
-      "back": "LIFESTYLE"
+      "front": "¿Por qué saludable?",
+      "back": "ESTILO DE VIDA"
     },
     "list-items": [
       {
         "id": 1,
-        "text": "Improved physical health"
+        "text": "Mejora de la salud física"
       },
       {
         "id": 2,
-        "text": "Better mental health"
+        "text": "Mejora de la salud mental"
       },
       {
         "id": 3,
-        "text": "Increased longevity"
+        "text": "Aumento de la longevidad"
       },
       {
         "id": 4,
-        "text": "Weight management"
+        "text": "Gestión del peso"
       },
       {
         "id": 5,
-        "text": "Improved self-confidence"
+        "text": "Mejora de la confianza en sí mismo"
       },
       {
         "id": 6,
-        "text": "Reduced stress"
+        "text": "Reducción del estrés"
       }
     ],
     "list-images": [
@@ -161,37 +135,37 @@
     ]
   },
   "section-three": {
-    "title": "We have plans for",
-    "desc": "Build healthier habits with personalized lessons",
+    "title": "Tenemos planes para",
+    "desc": "Construir hábitos más saludables con lecciones personalizadas",
     "items": [
       {
         "id": 1,
         "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/szcn3s6bbte0ofydfozu.svg",
-        "text": "Loosing weight"
+        "text": "Perder peso"
       },
       {
         "id": 2,
         "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/udcgdasgmlusaqgx2yrm.svg",
-        "text": "Gaining weight"
+        "text": "Aumento de peso"
       },
       {
         "id": 3,
         "icon": "https://res.cloudinary.com/dj0postuh/image/upload/v1713638723/landing-ia/ye7cbkigyz7xgqfeavwb.svg",
-        "text": "Maintaining weight"
+        "text": "Mantener el peso"
       }
     ]
   },
   "section-four": {
     "title": {
-      "left": "have a",
-      "middle": "HealthyBite",
-      "right": "for"
+      "left": "tener un",
+      "middle": "Bocado Saludable",
+      "right": " "
     },
     "items": [
       {
         "id": 1,
-        "title": "Find a diet you love",
-        "desc": "Find a nutritious Diet that fits your lifestyle and food preferences. Take charge of your daily habits with one of the many ongoing Diets including Clean Eating and High Protein",
+        "title": "Encuentra una dieta que te guste",
+        "desc": "Encuentra una dieta nutritiva que se adapte a tu estilo de vida y preferencias alimentarias. Tome el control de sus hábitos diarios con una de las muchas dietas en curso, incluyendo la alimentación limpia y alta proteína",
         "img": {
           "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/bjj3hl0svva6yrwh9alc.png",
           "alt": "un plato de ensalada"
@@ -199,8 +173,8 @@
       },
       {
         "id": 2,
-        "title": "Start a simplified meal plan",
-        "desc": "Follow a 7-21 day Meal Plan and get four pre-planned recipes a day. Depending on your health goals, there are many Meal Plans to choose from including Keto Burn and Vegan for a week.",
+        "title": "Iniciar un plan de comidas simplificado",
+        "desc": "Siga un plan de comidas de 7 a 21 días y obtenga cuatro recetas pre-planificadas al día. Dependiendo de sus objetivos de salud, hay muchos planes de comidas para elegir, incluyendo Keto Burn y Vegan por una semana.",
         "img": {
           "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/g0ccl7z4pu4ue9tem0ba.png",
           "alt": "frutas"
@@ -208,8 +182,8 @@
       },
       {
         "id": 3,
-        "title": "Track your way to success",
-        "desc": "Track your activities and what you eat with the help of our food-, exercise- and water trackers to maintain a balanced everyday life.",
+        "title": "Trace su camino al éxito",
+        "desc": "Rastrea tus actividades y lo que comes con la ayuda de nuestros rastreadores de alimentos, ejercicio y agua para mantener una vida diaria equilibrada.",
         "img": {
           "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796654/landing-ia/have/t3ge4ap6yw3b7vanelfu.png",
           "alt": "vasos de jugos de fruta"
@@ -217,8 +191,8 @@
       },
       {
         "id": 4,
-        "title": "Start your own healthy journey",
-        "desc": "To help you reach your goals and customize your health journey you can add your favorite meals, food items, recipes and exercises to your Favorites.",
+        "title": "Empiece su propio viaje saludable",
+        "desc": "Para ayudarle a alcanzar sus objetivos y personalizar su viaje de salud puede añadir sus comidas favoritas, alimentos, recetas y ejercicios a sus favoritos.",
         "img": {
           "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713796653/landing-ia/have/w6xvnncjk5eethcqiq3u.png",
           "alt": "vasos de jugos de fruta"
@@ -235,9 +209,9 @@
   },
   "section-six": {
     "title": {
-      "left": "What is a",
-      "middle": "HealthyBite",
-      "right": "for you ?"
+      "left": "¿Qué es un",
+      "middle": "Bocado Saludable",
+      "right": "para ti?"
     },
     "img": {
       "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1713799217/landing-ia/zdcegid79ye5x2uv9phs.png",
@@ -246,48 +220,44 @@
     "items": [
       {
         "id": 1,
-        "text": "Diet tracker"
+        "text": "Seguidor de la dieta"
       },
       {
         "id": 2,
-        "text": "Best nutrition advice"
+        "text": "Mejores consejos nutricionales"
       },
       {
         "id": 3,
-        "text": "Exercise portal"
+        "text": "Portal de ejercicio Planificador de comidas"
       },
       {
         "id": 4,
-        "text": "Meal planner"
+        "text": "Base de datos de recetas"
       },
       {
         "id": 5,
-        "text": "Recipes database"
+        "text": "Una parada para la nutrición"
       },
       {
         "id": 6,
-        "text": "One stop shop for nutritions"
-      },
-      {
-        "id": 7,
-        "text": "Community"
+        "text": "Comunidad"
       }
     ]
   },
   "section-seven": {
     "title": {
-      "left": "diet",
-      "right": "Products"
+      "left": "Productos ",
+      "right": "Dietéticos"
     },
-    "desc": "HealthyBite making it easy for you to get your diet product supply from the same platform as well",
+    "desc": "Fooddect haciendo que sea fácil para usted para obtener su suministro de producto de dieta desde la misma plataforma también",
     "list-texts": [
-      { "id": 1, "text": "Search from a wide range" },
-      { "id": 2, "text": "Get the best one recommended from the nutritionist" }
+      { "id": 1, "text": "Búsqueda desde un amplio rango" },
+      { "id": 2, "text": "Obtener el mejor recomendado del nutricionista" }
     ],
     "list-products": [
       {
         "id": 1,
-        "text": "Whey protein Bodybuilding supplement Nutrition",
+        "text": "Proteína de suero Suplemento de culturismo Nutrición",
         "info": "Net wt : 1.7kg",
         "img": {
           "url": "/product-1.jpg",
@@ -296,8 +266,8 @@
       },
       {
         "id": 2,
-        "text": "Whey protein Bodybuilding supplement Nutrition",
-        "info": "Net wt : 1.7kg",
+        "text": "Proteína de suero Suplemento de culturismo Nutrición",
+        "info": "Net wt : 1.2kg",
         "img": {
           "url": "/product-2.jpg",
           "alt": "producto"
@@ -305,8 +275,8 @@
       },
       {
         "id": 3,
-        "text": "Whey protein Bodybuilding supplement Nutrition",
-        "info": "Net wt : 1.7kg",
+        "text": "Proteína de suero Suplemento de culturismo Nutrición",
+        "info": "Net wt : 1.1kg",
         "img": {
           "url": "/product-3.jpg",
           "alt": "producto"
@@ -318,21 +288,21 @@
       "text": "Buy"
     },
     "slogan": {
-      "title": "That makes us different:",
-      "desc": "What sets us apart is our ability to combine data science with a passion for food. Our platform uses machine learning artificial intelligence algorithms and big data coding to analyze historical data and accurately anticipate trends. In addition, we focus on offering a joint alternative for the eating habits of both people and pets, which differentiates us from other solutions on the market."
+      "title": "Eso nos hace diferentes",
+      "desc": "Lo que nos diferencia es nuestra capacidad de combinar la ciencia de los datos con una pasión por la comida. Nuestra plataforma utiliza algoritmos de inteligencia artificial de aprendizaje automático y codificación de grandes datos para analizar datos históricos y anticipar con precisión las tendencias. Además, nos centramos en ofrecer una alternativa conjunta para los hábitos alimenticios tanto de las personas como de las mascotas, lo que nos diferencia de otras soluciones en el mercado."
     }
   },
   "section-eight": {
     "title": {
-      "left": "The fresh new",
-      "right": "Food stories"
+      "left": "Las nuevas historias de",
+      "right": "Comida fresca"
     },
-    "desc": "With the recipes created (and put to the test) by our in-house team of professional chefs and nutritionists, we can promise you that healthy eating is delicious!",
+    "desc": "Con las recetas creadas (y puestas a prueba) por nuestro equipo interno de chefs profesionales y nutricionistas, podemos prometerle que comer sano es delicioso!",
     "stories": [
       {
         "id": 1,
-        "text": "Diet, Fitness",
-        "desc": "Get all the protein you need on a plant based diet",
+        "text": "Dieta, Fitness",
+        "desc": "Obtenga toda la proteína que necesita con una dieta basada en plantas",
         "img": {
           "url": "/sirviendo-licuado.jpg",
           "alt": "mujer sirviendose licuado"
@@ -340,8 +310,8 @@
       },
       {
         "id": 2,
-        "text": "Diet, Fitness",
-        "desc": "Get all the protein you need on a plant based diet",
+        "text": "Dieta, Fitness",
+        "desc": "Obtenga toda la proteína que necesita con una dieta basada en plantas",
         "img": {
           "url": "/frutas-vegetales.jpg",
           "alt": "frutas y vegetales en la mesa"
@@ -349,8 +319,8 @@
       },
       {
         "id": 3,
-        "text": "Diet, Fitness",
-        "desc": "Get all the protein you need on a plant based diet",
+        "text": "Dieta, Fitness",
+        "desc": "Obtenga toda la proteína que necesita con una dieta basada en plantas",
         "img": {
           "url": "/cortando-fruta.jpg",
           "alt": "mujer cortando fruta"
@@ -358,29 +328,29 @@
       }
     ],
     "stories-btn": {
-      "text": "Read more",
-      "href": "https://foodvisioninsights.blog.akiladigital.com"
+      "text": "Leer más",
+      "href": "https://fooddect.blog.akiladigital.com/"
     }
   },
   "section-nine": {
     "text": {
-      "left": "Invest in yourself and boost your health, body and confidence",
-      "right": "body and confidence"
+      "left": "Invierta en ti mismo, mejora tu salud ",
+      "right": "Tu cuerpo y confianza"
     },
     "btn": {
-      "text": "Contact",
-      "href": "mailto:foodvisioninsights@gmail.com"
+      "text": "Contacto",
+      "href": "https://fooddect.blog.akiladigital.com/contacto/"
     },
     "list-texts": [
-      { "id": 1, "text": "Quick account creation" },
-      { "id": 2, "text": "No commitment — cancel at any time" },
-      { "id": 3, "text": "Join over 45 million other users" }
+      { "id": 1, "text": "Creación rápida de cuenta" },
+      { "id": 2, "text": "Sin compromiso — cancelar en cualquier momento" },
+      { "id": 3, "text": "Únete a más de 45 millones de otros usuarios" }
     ]
   },
   "section-ten": {
     "text": {
       "back": "RESULTS",
-      "front": "HealthyBite reviews"
+      "front": "Fooddect reviews"
     },
     "reviews": [
       {
@@ -435,39 +405,39 @@
   },
   "section-eleven": {
     "text": {
-      "left": "A whole year of",
-      "middle": "HEALTHYBITE",
-      "right": " costs about the same as 1 hour with a nutrition expert."
+      "left": " ",
+      "middle": " ",
+      "right": " "
     }
   },
   "section-twelve": {
     "title": {
-      "left": "Feeding the future, anticipating your desires.",
-      "right": "anticipating your desires."
+      "left": "Alimentando al futuro",
+      "right": "Anticipando sus deseos"
     },
     "texts": {
       "one": {
-        "subtitle": "Why trust us:",
-        "desc": "You can trust us because we are committed to excellence, integrity and innovation. Our platform has been developed by a team of experts in artificial intelligence and food, guaranteeing the highest quality and precision in our services. Additionally, we are trusted by a wide range of users, including food industry companies, conscious consumers and nutrition experts."
+        "subtitle": "Por qué confiar en nosotros",
+        "desc": "Puede confiar en nosotros porque estamos comprometidos con la excelencia, la integridad y la innovación. Nuestra plataforma ha sido desarrollada por un equipo de expertos en inteligencia artificial y alimentos, garantizando la más alta calidad y precisión en nuestros servicios. Además, tenemos la confianza de una amplia gama de usuarios, incluyendo empresas de la industria alimentaria, consumidores conscientes y expertos en nutrición."
       },
       "two": {
-        "subtitle": "Who has trusted us:",
-        "desc": "Our clients include food and beverage companies, supermarkets, veterinarians, nutritionists, and pet and food lovers who value accuracy and innovation in food trend analysis."
+        "subtitle": "Quienes han confiado",
+        "desc": "Nuestros clientes incluyen empresas de alimentos y bebidas, supermercados, veterinarios, nutricionistas y amantes de mascotas y alimentos que valoran la precisión y la innovación en el análisis de tendencias alimentarias."
       }
     },
     "images": ["/mujer-con-manzana.jpg", "/mujer-con-perro.webp"]
   },
   "section-thirteen": {
     "title": {
-      "left": "Discover the Future of ",
-      "right": "Food with Fooddect "
+      "left": "Descubre el futuro de la alimentación con",
+      "right": "Fooddect"
     },
-    "subtitle": "At Fooddect, we are at the forefront of the food revolution. We specialize in creating AI-powered solutions that anticipate trends and detect changes in the eating habits of consumers, both human and furry.",
+    "subtitle": "En Fooddect, estamos en la vanguardia de la revolución alimentaria. Nos especializamos en la creación de soluciones impulsadas por la IA que anticipan las tendencias y detectan cambios en los hábitos alimenticios de los consumidores, tanto humanos como peludos.",
     "list-p": [
-      "Imagine having the ability to predict which foods will be the next favorites on the market, understand how people's tastes are evolving, and anticipate emerging dietary needs. That's exactly what we do at FoodVisionInsights.",
-      "Our mission is to provide an innovative platform that is not only one step ahead of food trends, but also offers a comprehensive view of eating habits for both people and pets. We strive to create a comprehensive alternative that covers all aspects of food consumption.",
-      "To achieve this, we combine the power of machine learning artificial intelligence algorithms and big data coding. We analyze historical data from our platform and merge it with other internal and external sources to obtain a complete and accurate view of the food landscape.",
-      "At Fooddect, we don't just anticipate the future of food, we create it. Join us on this journey towards a smarter, more conscious and more delicious food industry than ever before."
+      "Imaginen tener la capacidad de predecir qué alimentos serán los próximos favoritos en el mercado, entender cómo los gustos de la gente están evolucionando, y anticipar las necesidades dietéticas emergentes. Eso es exactamente lo que hacemos en FoodVisionInsights.",
+      "Nuestra misión es proporcionar una plataforma innovadora que no sólo esté un paso por delante de las tendencias alimentarias, sino que también ofrece una visión completa de los hábitos alimenticios tanto de las personas como de las mascotas. Nos esforzamos por crear una alternativa integral que abarque todos los aspectos del consumo de alimentos.",
+      "Para lograr esto, combinamos el poder del aprendizaje automático con algoritmos de inteligencia artificial y codificación de grandes datos. Analizamos los datos históricos de nuestra plataforma y los fusionamos con otras fuentes internas y externas para obtener una visión completa y precisa del paisaje alimentario.",
+      "En Fooddect, no sólo anticipamos el futuro de la comida, sino que lo creamos. Únete a nosotros en este viaje hacia una industria alimentaria más inteligente, más consciente y más deliciosa que nunca."
     ]
   },
   "section-footer": {
@@ -499,18 +469,18 @@
         "href": "https://www.linkedin.com/company/example/"
       }
     ],
-    "footer-copyright": "HealthyBite. All rights reserved."
+    "footer-copyright": "Fooddect. Reservados todos los derechos."
   },
   "section-projects": {
     "text": {
-      "left": "Our",
-      "right": "Project"
+      "left": "Nuestro",
+      "right": "Proyecto"
     },
     "projects": [
       {
         "id": 1,
-        "title": "AI TO ANTICIPATE TRENDS AND DETECT CHANGES IN CONSUMERS' EATING HABITS (Platform for People's and Pets' Eating Habits)",
-        "desc": "Our AI anticipates trends and detects changes in the eating habits of consumers and pets, offering a unique platform to understand the market in an agile and precise way.",
+        "title": "IA PARA ANTICIPAR TENDENCIAS Y DETECTAR CAMBIOS EN LOS HÁBITOS ALIMENTARIOS DE LOS CONSUMIDORES (Plataforma de Hábitos Alimenticios de Personas y Mascotas)",
+        "desc": "Nuestra IA anticipa tendencias y detecta cambios en los hábitos alimentarios de consumidores y mascotas, ofreciendo una plataforma única para entender el mercado de forma ágil y precisa.",
         "img": {
           "url": "https://res.cloudinary.com/dj0postuh/image/upload/v1714069100/bciwfshbuvos1ejjtiy1.webp",
           "alt": "AI TO ANTICIPATE TRENDS AND DETECT CHANGES IN CONSUMERS' EATING HABITS (Platform for People's and Pets' Eating Habits)"

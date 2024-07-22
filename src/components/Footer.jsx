@@ -1,34 +1,19 @@
-import data from '../data.json';
+import data from "../data.json";
 
-import Logo from './ui/Logo';
-import MyLink from './ui/MyLink';
-import SeparatorGradient from './ui/SeparatorGradient';
+import Logo from "./ui/Logo";
+import MyLink from "./ui/MyLink";
+import SeparatorGradient from "./ui/SeparatorGradient";
+import SocialButtons from "./ui/SocialButtons";
 
 const Footer = () => {
   return (
-    <div className='bg-bg p-5'>
-      <div className='w-max mx-auto'>
+    <div className="bg-bg p-5">
+      <div className="w-max mx-auto">
         <Logo />
       </div>
       {/* links */}
-      <ul className='flex flex-wrap justify-center gap-4 mt-10'>
-        {data['section-nav'].links.map((link) =>
-          link.isExternal ? (
-            <li key={link.id}>
-              <MyLink
-                href={link.href}
-                text={link.text}
-                title={link.title}
-                target='_blank'
-                rel='noreferrer'
-              />
-            </li>
-          ) : (
-            <li key={link.id}>
-              <MyLink href={link.href} text={link.text} title={link.title} />
-            </li>
-          )
-        )}
+      <ul className="flex flex-wrap justify-center gap-4 mt-10">
+        <SocialButtons />
       </ul>
       {/* <ul className='flex justify-center gap-4 mt-5'>
         {data['section-footer']['footer-links'].map((link) => (
@@ -63,10 +48,10 @@ const Footer = () => {
         ))}
       </div> */}
 
-      <span className='text-center text-[14px] block mt-5 '>
-        ©{' '}
+      <span className="text-center text-[14px] block mt-5 ">
+        ©{" "}
         {`${new Date().getFullYear()} - ${
-          data['section-footer']['footer-copyright']
+          data["section-footer"]["footer-copyright"]
         }`}
         Reserved.
       </span>

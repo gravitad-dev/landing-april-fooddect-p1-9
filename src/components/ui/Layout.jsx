@@ -1,6 +1,8 @@
 const Layout = ({ children }) => {
   return (
-    <div className='py-[100px] px-4 max-w-maxWidth mx-auto'>{children}</div>
+    <div className="flex justify-center w-full h-full">
+      <div className="w-full max-w-[1200px]">{children}</div>
+    </div>
   );
 };
 export default Layout;
