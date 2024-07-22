@@ -36,7 +36,7 @@ function SocialButtons() {
             key={item.id}
             href={item.url}
             target="_blank"
-            className="hover:bg-[#474748] bg-gray-800 h-[28px] w-[28px] rounded-[4px] text-white text-[16px] flex justify-center items-center"
+            className="text-[#00796B] h-[28px] w-[28px] rounded-[4px]  text-[16px] flex justify-center items-center"
           >
             {item.icon}
           </a>
